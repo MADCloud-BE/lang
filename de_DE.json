@@ -2,5 +2,5 @@
   "cloud.startup": "Starte MADCloud...",
   "cloud.startup.command.manager": "Lade Command Manager...",
   "debug.cloud.startup.console": "Konsole wird gestartet...",
-  "debug.collection.error.remove": "Collection Fehler: %0% wurde nicht in Collection gefunden."
+  "debug.collection.error.remove": "Collection Fehler: %0% wurde nicht in Collection gefunden. [%1%]"
 }
