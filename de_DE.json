@@ -7,6 +7,9 @@
 
   "debug.cloud.startup.console": "Konsole wird gestartet...",
   "debug.collection.error.remove": "Collection Fehler: %0% wurde nicht in Collection gefunden. [%1%]",
+  "debug.software.init.start": "Lade verfügbare Software...",
+  "debug.software.init": "Lade Software '%0%'",
+  "debug.software.init.finished": "%0% Software geladen.",
 
   "command.not_found": "Befehl '%0%' wurde nicht gefunden. Benutz 'help' für eine Liste aller Befehle.",
 
