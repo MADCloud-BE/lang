@@ -1,7 +1,14 @@
 {
   "cloud.startup": "Starte MADCloud...",
+
   "cloud.startup.command.manager": "Lade Command Manager...",
+  "cloud.startup.software.manager": "Lade Software Manager...",
+  "cloud.startup.template.manager": "Lade Template Manager...",
+
   "debug.cloud.startup.console": "Konsole wird gestartet...",
   "debug.collection.error.remove": "Collection Fehler: %0% wurde nicht in Collection gefunden. [%1%]",
-  "command.not_found": "Befehl '%0%' wurde nicht gefunden. Benutz 'help' für eine Liste aller Befehle."
+
+  "command.not_found": "Befehl '%0%' wurde nicht gefunden. Benutz 'help' für eine Liste aller Befehle.",
+
+  "command.help.description": "Eine Liste von allen Befehlen"
 }
