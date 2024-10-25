@@ -4,6 +4,7 @@
   "cloud.startup.command.manager": "Lade Command Manager...",
   "cloud.startup.software.manager": "Lade Software Manager...",
   "cloud.startup.template.manager": "Lade Template Manager...",
+  "cloud.startup.complete": "MADCloud gestartet.",
 
   "software.init.start": "Lade verfügbare Software...",
   "software.init.finished": "%0% Software geladen.",
